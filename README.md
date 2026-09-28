@@ -1,8 +1,6 @@
-# Dance Competition Vote Modeling
+# 2026 MCM Problem C
 
 An organized, reproducible portfolio of our solution to Problem C of the 2026 Mathematical Contest in Modeling (MCM). The team received an Honorable Mention.
-
-This portfolio title is descriptive; the work remains identified below as the team's 2026 MCM Problem C submission.
 
 ## Problem
 
